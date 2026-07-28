@@ -38,8 +38,3 @@ Since all models above are **free to use**, picking one for "efficiency" isn't a
 ---
 
 *Last updated: July 2026*
-'''
-
-with open('output/model_guide_README.md', 'w') as f:
-    f.write(content)
-print(len(content))
